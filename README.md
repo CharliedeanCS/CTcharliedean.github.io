@@ -1,1 +1,3 @@
-# CTcharliedean.github.io
+---
+permalink: /index.html
+---
